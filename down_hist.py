@@ -23,5 +23,3 @@ for single_date in daterange(start_date, end_date):
         print(f'{data_dia} salvo.')            
     else:
         print(f'Dia {single_date.strftime("%Y-%m-%d")} inexistente.')
-
-#teste
